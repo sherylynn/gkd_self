@@ -7,7 +7,7 @@ export default defineGkdApp({
     {
       name: '获取授权',
       key: 0,
-      snapshotUrls: ['https://i.gkd.li/snapshot/1731895395166'],
+      snapshotUrls: ['https://i.gkd.li/i/17827170'],
       rules: [
         {
           matches: [
