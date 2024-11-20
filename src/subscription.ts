@@ -5,7 +5,7 @@ import globalGroups from './globalGroups';
 
 export default defineGkdSubscription({
   id: 23198238133,
-  name: 'Subscription',
+  name: 'lynn@GKD',
   version: 0,
   author: 'sherylynn',
   checkUpdateUrl: './gkd.version.json5',
